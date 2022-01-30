@@ -19,6 +19,9 @@ https://github.com/namvh145/aiminiprojectfinal.git
 executed.
 
 ## 2. Structure of the project
+1. ContentBased: Containing all the codes for accessing the Content based algorithm applied model
+- EDA_content_based_movie_recommender: eda part served for content based filtering
+- content_based_movie_recommender: the content based recommendation system
 3. UserBased: Containing all the codes for assessing the User based algorithm applied model
 - Cleaning data - movies metadata: Cleaning the metadata dataset
 - EDA - movies metadata: EDA for metadata dataset 
