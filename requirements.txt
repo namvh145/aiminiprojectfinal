@@ -5,3 +5,4 @@ scipy
 sklearn
 seaborn
 matplotlib
+pickle
