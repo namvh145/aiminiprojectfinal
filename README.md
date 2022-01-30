@@ -27,3 +27,6 @@ executed.
 - EDA - movies metadata: EDA for metadata dataset 
 - User-based Algorithms: Building the user-based model
 - Userbased_validation: Testing the arrcuracy of user-based algorithm model 
+4. ItemBased: Containing all the codes for accessing the Item based algorithm applied model
+- item-base-eda: EDA parts needed for item based filtering
+- Item_based_model_and_test_final: Building the item-based model and testing the arrcuracy of item-based algorithm model 
