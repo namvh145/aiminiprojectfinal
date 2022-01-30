@@ -22,11 +22,16 @@ executed.
 1. ContentBased: Containing all the codes for accessing the Content based algorithm applied model
 - EDA_content_based_movie_recommender: eda part served for content based filtering
 - content_based_movie_recommender: the content based recommendation system
-3. UserBased: Containing all the codes for assessing the User based algorithm applied model
+2. Weighted Rating: Containing all the codes for accessing the Weighted Rating system
+- static: Regenerating weighted rating complete list.
+- weighted: EDA and pre-run with compact dataset.
+- sse: Preprocessing rating dataset.
+- pop: Preprocessing on Weighted rating approach.
+4. UserBased: Containing all the codes for assessing the User based algorithm applied model
 - Cleaning data - movies metadata: Cleaning the metadata dataset
 - EDA - movies metadata: EDA for metadata dataset 
 - User-based Algorithms: Building the user-based model
 - Userbased_validation: Testing the arrcuracy of user-based algorithm model 
-4. ItemBased: Containing all the codes for accessing the Item based algorithm applied model
+5. ItemBased: Containing all the codes for accessing the Item based algorithm applied model
 - item-base-eda: EDA parts needed for item based filtering
 - Item_based_model_and_test_final: Building the item-based model and testing the arrcuracy of item-based algorithm model 
